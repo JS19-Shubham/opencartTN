@@ -1,0 +1,51 @@
+07:19:37.751 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+07:19:41.931 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+07:19:42.105 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+07:19:42.118 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+07:19:42.119 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+07:19:42.242 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+07:19:42.248 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+07:19:42.728 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+07:19:42.936 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+07:19:44.667 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+07:19:44.668 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+07:19:46.200 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+07:19:46.228 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+07:19:46.228 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+07:49:19.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml"
+07:49:19.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml
+
+07:52:15.428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml"
+07:52:15.763 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml
+
+07:52:19.009 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+07:52:19.165 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+07:52:19.622 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+07:52:19.625 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+07:52:23.276 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+07:52:23.347 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+07:52:23.347 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+08:42:05.010 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml"
+08:42:05.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml
+
+08:42:09.822 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+08:42:12.400 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+08:42:51.226 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\DELL\AppData\Local\Temp\testng-eclipse--7615370\testng-customsuite.xml"
+08:42:51.471 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+08:42:51.474 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+08:42:51.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:42:51.476 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:42:51.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:42:51.478 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:42:51.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:42:51.479 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:42:51.487 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+08:42:51.497 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+08:42:51.498 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:42:51.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:42:51.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+08:42:51.499 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+08:42:51.500 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.

@@ -1,0 +1,57 @@
+16:34:17.606 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:53:09.870 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml"
+16:53:10.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml
+
+16:53:13.503 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:53:13.647 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+16:53:14.138 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+16:53:14.148 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+16:53:17.176 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+16:53:17.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+16:53:17.223 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:53:21.290 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:53:23.580 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+16:54:36.450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml"
+16:54:36.747 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml
+
+16:54:39.918 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+16:54:42.264 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:19:52.362 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml"
+18:19:52.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml
+
+18:19:56.567 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:19:56.696 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+18:19:57.117 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+18:19:57.119 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:19:58.580 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+18:19:58.610 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+18:19:58.610 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:20:00.727 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:20:04.501 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:24:03.796 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml"
+18:24:04.022 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\grouping.xml
+
+18:24:06.622 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+18:24:06.713 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+18:24:07.826 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+18:24:07.830 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+18:24:09.644 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+18:24:09.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+18:24:09.677 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+18:24:11.614 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:35:11.296 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\test-output\testng-failed.xml"
+18:35:11.508 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\test-output\testng-failed.xml
+
+18:35:14.132 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:36:33.231 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\test-output\testng-failed.xml"
+18:36:33.442 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\test-output\testng-failed.xml
+
+18:36:35.822 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+18:36:37.362 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+18:39:02.787 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\master.xml"

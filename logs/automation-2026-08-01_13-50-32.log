@@ -1,0 +1,51 @@
+13:37:11.027 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:37:11.027 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:37:15.222 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:37:17.384 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:38:56.827 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml"
+13:38:57.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml
+
+13:39:01.092 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:39:01.092 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:39:04.891 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:39:07.649 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:40:20.120 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml"
+13:40:20.344 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml
+
+13:40:23.927 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:40:23.928 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:40:27.771 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Starting TC002_LoginTest *****
+13:40:29.434 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest *****
+13:42:27.055 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml"
+13:42:27.274 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml
+
+13:42:30.650 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:42:30.650 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:42:30.840 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:42:31.048 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:42:35.423 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:42:35.542 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:42:36.161 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+13:42:36.165 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+13:42:38.092 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+13:42:38.110 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+13:42:38.110 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+13:45:11.362 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml"
+13:49:34.993 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml"
+13:49:35.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\MyWorkSpaces\SeleniumWebDriver\opencartTN\crossbrowsertesting.xml
+
+13:49:40.302 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:49:40.300 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:49:40.671 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:49:40.880 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:49:45.092 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+13:49:45.222 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link...
+13:49:45.660 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+13:49:45.660 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details...
+13:49:47.550 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected Message...
+13:49:47.578 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Test passed...
+13:49:47.578 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
